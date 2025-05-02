@@ -35,8 +35,9 @@ Bootstrap (for styling and responsive UI)
 
 Installation & Setup :
   Clone the repository:
-  git clone https://github.com/yourusername/student-management-system.git
-  cd student-management-system
+  git clone link of repository
+  cd student-management-system-java-springboot
+
 
   
 Build and run the project:
