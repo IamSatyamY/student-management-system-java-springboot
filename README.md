@@ -41,5 +41,5 @@ Installation & Setup :
 
   
 Build and run the project:
-  Open the application in a browser:
-  http://localhost:8080/students
+  Open the application in a browser run on 8080
+  
